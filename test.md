@@ -7,4 +7,4 @@ Some description here...
 wow
 
 ## Video
-[![Watch the video](video-thumbnail.jpg)](video.mp4)
+[![Watch the video](partner_tv.png)](file_example_MP4_1280_10MG.mp4)
